@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yali39
-- 👀 I’m interested in leer, escuchar música, ver películas o series 
-- 🌱 I’m currently estudiando enfermería 
+- 👀 I’m interested in read, listen to music and watch series or movies 
+- 🌱 I am currently studying nursing 
 
 <!---
 Yali39/Yali39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
